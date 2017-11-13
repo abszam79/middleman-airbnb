@@ -1,0 +1,40 @@
+ssaunier:
+  name: "Sebastien's home"
+  description: "Charming room in Montmartre"
+  city_name: "Paris, France"
+  city_slug: "paris"
+  wifi: false
+  rating: 4
+  picture: 'https://kitt.lewagon.com/placeholder/cities/paris'
+  category: 'Popular'
+  host: 'https://kitt.lewagon.com/placeholder/users/tgenait'
+papillard:
+  name: "Boris' home"
+  description: Small flat in Berlin
+  city_name: "Berlin, Germany"
+  city_slug: "berlin"
+  wifi: true
+  rating: 3
+  picture: 'https://kitt.lewagon.com/placeholder/cities/berlin'
+  category: 'Popular'
+  host: 'https://kitt.lewagon.com/placeholder/users/papillard'
+monsieurpaillard:
+  name: Romain's home
+  description: Nice flat in Piccadilly
+  city_name: "London, UK"
+  city_slug: "london"
+  wifi: true
+  rating: 5
+  picture: 'https://kitt.lewagon.com/placeholder/cities/london'
+  category: 'Popular'
+  host: 'https://kitt.lewagon.com/placeholder/users/ssaunier'
+papillards:
+  name: Zam's home
+  description: Cool
+  city_name: "Sevres, FR"
+  city_slug: "sevres"
+  wifi: true
+  rating: 5
+  picture: 'https://kitt.lewagon.com/placeholder/cities/paris'
+  category: 'Cool'
+  host: 'https://kitt.lewagon.com/placeholder/users/papillard'
